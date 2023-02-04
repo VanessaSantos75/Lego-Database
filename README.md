@@ -1,7 +1,7 @@
 Lego Database
 =============
 
-Bem-vindo ao projeto Lego Database! Este é um projeto acadêmico de grupo para a matéria de resiliência, com o objetivo de apresentar pesquisas e gráficos relacionados a peças Lego. Com 6 pesquisas realizadas e 12 fotos, 2 para cada pesquisa (uma da pesquisa e outra do gráfico), esperamos que este projeto possa ser útil e inspirador para outros estudantes e entusiastas de Lego.
+Bem-vindo ao projeto Lego Database! Este é um projeto acadêmico de grupo para o curso resilia, com o objetivo de apresentar pesquisas e gráficos relacionados a peças Lego. Com 6 pesquisas realizadas e 12 fotos, 2 para cada pesquisa (uma da pesquisa e outra do gráfico), esperamos que este projeto possa ser útil e inspirador para outros estudantes e entusiastas de Lego.
 
 ## Conteúdo
 
