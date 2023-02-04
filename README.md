@@ -42,7 +42,7 @@ Nesta pesquisa, listou-se todos os conjuntos de brinquedos lançados pela Lego e
 
 ![Gráfico de conjuntos lançados entre 1965 e 1970](sets_released_1965_1970.jpg)
 
-![Resultado da pesquisa no SQL](https://images2.imgbox.com/2d/e4/YW3nq2ri_o.png)
+![Resultado da pesquisa no SQL](https://images2.imgbox.com/f8/dd/BstgGiR1_o.png)
 ---
 ### Em que ano foram fabricados mais conjuntos de brinquedos e quais foram os temas mais populares?
 
