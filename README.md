@@ -15,8 +15,8 @@ Bem-vindo ao Projeto Lego Database. Este é um projeto acadêmico em grupo, real
 
 ## Como Utilizar
 
-Para visualizar as fotos e gráficos deste projeto, basta acessar a página do Github e clicar nas imagens para ampliar.
----
+#### Para visualizar as fotos e gráficos deste projeto, basta acessar a página do Github e clicar nas imagens para ampliar.
+
 ## Pesquisas Realizadas
 
 ### Número de Peças Mais Fabricadas por Ano entre 1960 e 1990
