@@ -72,9 +72,8 @@ Nesta pesquisa, buscou-se listar todos os conjuntos de brinquedos com "harry" no
 
 
 ## Créditos
-Este projeto foi desenvolvido por [Guilherme B.](https://github.com/Ziiron1) , [Vanessa S.](https://github.com/VanessaSantos75) , [Karen M.](https://github.com/karenlmoraes) , [Beatriz F.](https://github.com/fidelisbia) , [Lucas C.](https://github.com/Lucas2Cardoso) . Gostaríamos de agradecer a [nome de instituições ou pessoas que ajudaram no projeto] por sua ajuda e suporte.
+Este projeto foi desenvolvido por [Guilherme B.](https://github.com/Ziiron1) , [Vanessa S.](https://github.com/VanessaSantos75) , [Karen M.](https://github.com/karenlmoraes) , [Beatriz F.](https://github.com/fidelisbia) , [Lucas C.](https://github.com/Lucas2Cardoso) . Gostaríamos de agradecer aos facilitadores pela ajuda e suporte.
 
 ---
 ### Licença
 Este projeto é apenas para fins acadêmicos e não possui nenhuma licença.
-
