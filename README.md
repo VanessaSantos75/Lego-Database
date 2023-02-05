@@ -25,7 +25,10 @@ Nesta pesquisa, verificou-se qual foi o número de peças mais fabricadas pela L
 
 ![Gráfico de produção de peças por ano entre 1960 e 1990](production_by_year_1960_1990.jpg)
 
-![Resultado da pesquisa no SQL](https://images2.imgbox.com/cc/e2/dFZC4lzW_o.png)
+<p align="center">
+  <img src="https://images2.imgbox.com/ff/d6/IVEwvSym_o.png" width="500">
+</p>
+
 ---
 
 ### Quantas Peças de Cada Cor Há no Banco de Dados
@@ -34,7 +37,10 @@ Nesta pesquisa, verificou-se a quantidade de peças de cada cor presentes no ban
 
 ![Gráfico de quantidade de peças por cor](pieces_by_color.jpg)
 
-![Resultado da pesquisa no SQL](https://images2.imgbox.com/0c/e7/nBswbt8D_o.png)
+<p align="center">
+  <img src="https://images2.imgbox.com/5a/ac/X6Oyc8vt_o.png" width="500">
+</p>
+
 ---
 ### Nomes, Anos e Temas dos Conjuntos de Brinquedos Lançados entre 1965 e 1970
 
@@ -42,7 +48,10 @@ Nesta pesquisa, listou-se todos os conjuntos de brinquedos lançados pela Lego e
 
 ![Gráfico de conjuntos lançados entre 1965 e 1970](sets_released_1965_1970.jpg)
 
-![Resultado da pesquisa no SQL](https://images2.imgbox.com/f8/dd/BstgGiR1_o.png)
+<p align="center">
+  <img src="https://images2.imgbox.com/5e/dd/20gyqboZ_o.png" width="500">
+</p>
+
 ---
 ### Em que ano foram fabricados mais conjuntos de brinquedos e quais foram os temas mais populares?
 
@@ -50,15 +59,46 @@ Nesta pesquisa, buscou-se identificar o ano em que mais conjuntos de brinquedos 
 
 ![Gráfico de produção de conjuntos por ano](sets_production_by_year.jpg)
 
-![Resultado da pesquisa no SQL](https://images2.imgbox.com/f0/5e/elXGAaTL_o.png)
+<p align="center">
+  <img src="https://images2.imgbox.com/1b/7a/QOHDBZDr_o.png" width="500">
+</p>
+
 ---
-### São quantos usuários que tem dos jogos ao longo do tempo?
+
+### Qual é a categoria de peças mais comum e a quantidade de peças nessa categoria na tabela parts?
+
+Nesta consulta, procuramos identificar as categorias de peças da Lego mais utilizadas. Ao juntar as informações da tabela "parts" com a tabela "part_categories", agrupamos o resultado pelas categorias de peças e ordenamos de acordo com a quantidade total de cada categoria. Assim, obtivemos uma lista das categorias mais populares.
+
+![Gráfico](sets_production_by_year.jpg)
+
+<p align="center">
+  <img src="https://images2.imgbox.com/4d/20/imn6Xbnd_o.png" width="500">
+</p>
+
+---
+
+### Qual foi o número de conjuntos de brinquedos Lego vendidos mais de uma vez no período de registro?
+
+Nesta pesquisa, foi feita uma análise de vendas de conjuntos de brinquedos Lego. Buscou-se identificar os conjuntos que foram vendidos mais de uma vez no período de registro. Os resultados indicam que houve 25 conjuntos que foram vendidos com mais frequência, o que sugere que esses conjuntos tiveram uma grande demanda entre os clientes.
+
+![Gráfico](sets_production_by_year.jpg)
+
+<p align="center">
+  <img src="https://images2.imgbox.com/8a/01/JshE5IdF_o.png" width="500">
+</p>
+
+---
+
+### Qual é a lista dos 10 conjuntos LEGO com nome e ano de lançamento e categoria dos anos entre 1960 e 1990?
 
 Nesta pesquisa, buscou-se verificar o número de usuários de jogos baseados em Lego ao longo do tempo. É possível observar que houve um crescimento significativo no número de usuários a partir de 2005, quando foram lançados os primeiros jogos eletrônicos.
 
 ![Gráfico de usuários de jogos baseados em Lego ao longo do tempo](game_users_over_time.jpg)
 
-![Resultado da pesquisa no SQL](https://images2.imgbox.com/10/1a/yZcVrJgs_o.png)
+<p align="center">
+  <img src="https://images2.imgbox.com/35/0d/8wu2YM78_o.png" width="500">
+</p>
+
 ---
 ### Quais são os conjuntos de brinquedos com "harry" no nome e seus temas?
 
@@ -67,7 +107,7 @@ Nesta pesquisa, buscou-se listar todos os conjuntos de brinquedos com "harry" no
 ![Gráfico de conjuntos com "harry" no nome](sets_with_harry_in_name.jpg)
 
 <p align="center">
-  <img src="https://images2.imgbox.com/8b/eb/M3aMbqSR_o.png" width="500">
+  <img src="https://images2.imgbox.com/8a/de/9t2EwzOF_o.png" width="500">
 </p>
 
 
