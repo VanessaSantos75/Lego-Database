@@ -21,7 +21,7 @@ Lego Database
 
 ## <strong> Número de Peças Mais Fabricadas por Ano entre 1960 e 1990 </strong>
 
-Nesta pesquisa, verificou-se qual foi o número de peças mais fabricadas pela Lego entre os anos de 1960 e 1990. É possível verificar um aumento significativo de produção a partir do ano de 1970.
+Nesta pesquisa, verificou-se qual foi o número de peças mais fabricadas pela Lego entre os anos de 1960 e 1990. É possível verificar um aumento significativo de produção a partir do ano de 1989.
 
 <p align="center">
   <img src="https://images2.imgbox.com/ff/d6/IVEwvSym_o.png" width="500">
@@ -35,7 +35,7 @@ Nesta pesquisa, verificou-se qual foi o número de peças mais fabricadas pela L
 
 ## <strong> Quantas Peças de Cada Cor Há no Banco de Dados </strong>
 
-Nesta pesquisa, verificou-se a quantidade de peças de cada cor presentes no banco de dados. É possível verificar que a cor mais presente é o vermelho, seguido pelo amarelo e pelo branco.
+Nesta pesquisa, verificou-se a quantidade de peças de cada cor presentes no banco de dados. É possível verificar que a cor mais presente é o vermelho, seguido pelo preto e pelo azul.
 
 <p align="center">
   <img src="https://images2.imgbox.com/5a/ac/X6Oyc8vt_o.png" width="500">
@@ -48,7 +48,7 @@ Nesta pesquisa, verificou-se a quantidade de peças de cada cor presentes no ban
 ---
 ## <strong>Nomes, Anos e Temas dos Conjuntos de Brinquedos Lançados entre 1965 e 1970</strong>
 
-Nesta pesquisa, listou-se todos os conjuntos de brinquedos lançados pela Lego entre 1965 e 1970, incluindo seus respectivos nomes, anos de lançamento e temas. É possível verificar que os temas mais comuns neste período foram cidades, veículos e castelos.
+Nesta pesquisa, listou-se todos os conjuntos de brinquedos lançados pela Lego entre 1965 e 1970, incluindo seus respectivos nomes, anos de lançamento e temas. É possível verificar que os temas mais comuns neste período foram locomotivas como trens .
 
 <p align="center">
   <img src="https://images2.imgbox.com/5e/dd/20gyqboZ_o.png" width="500">
