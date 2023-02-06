@@ -61,7 +61,7 @@ Nesta pesquisa, listou-se todos os conjuntos de brinquedos lançados pela Lego e
 ---
 ## <strong>Em que ano foram fabricados mais conjuntos de brinquedos e quais foram os temas mais populares? </strong>
 
-Nesta pesquisa, buscou-se identificar o ano em que mais conjuntos de brinquedos foram fabricados pela Lego, bem como quais foram os temas mais populares neste período. Verificou-se que o pico de produção ocorreu em 1980, com a maioria dos conjuntos sendo de temas de cidades e veículos.
+Nesta pesquisa, buscou-se identificar o ano em que mais conjuntos de brinquedos foram fabricados pela Lego, bem como quais foram os temas mais populares neste período. Verificou-se que o pico de produção ocorreu em 2015, com a maioria dos conjuntos sendo de temas de cidades e contruções.
 
 <p align="center">
   <img src="https://images2.imgbox.com/1b/7a/QOHDBZDr_o.png" width="500">
@@ -89,7 +89,7 @@ Nesta consulta, procuramos identificar as categorias de peças da Lego mais util
 
 ##  <strong>Qual foi o número de conjuntos de brinquedos Lego vendidos mais de uma vez no período de registro?</strong>
 
-Nesta pesquisa, foi feita uma análise de vendas de conjuntos de brinquedos Lego. Buscou-se identificar os conjuntos que foram vendidos mais de uma vez no período de registro. Os resultados indicam que houve 25 conjuntos que foram vendidos com mais frequência, o que sugere que esses conjuntos tiveram uma grande demanda entre os clientes.
+Nesta pesquisa, foi feita uma análise de vendas de conjuntos de brinquedos Lego. Buscou-se identificar os conjuntos que foram vendidos mais de uma vez no período de registro. Os resultados indicam que houve 25, posteriormente atualizados para apenas 10 conjuntos que foram vendidos com mais frequência, o que sugere que esses conjuntos tiveram uma grande demanda entre os clientes.
 
 <p align="center">
   <img src="https://images2.imgbox.com/8a/01/JshE5IdF_o.png" width="500">
@@ -104,7 +104,7 @@ Nesta pesquisa, foi feita uma análise de vendas de conjuntos de brinquedos Lego
 
 ## <strong>Qual é a lista dos 10 conjuntos LEGO com nome e ano de lançamento e categoria dos anos entre 1960 e 1990?</strong>
 
-Nesta pesquisa, buscou-se verificar o número de usuários de jogos baseados em Lego ao longo do tempo. É possível observar que houve um crescimento significativo no número de usuários a partir de 2005, quando foram lançados os primeiros jogos eletrônicos.
+Nesta pesquisa, buscou-se verificar o número de usuários de jogos baseados em Lego ao longo do tempo. É possível observar que houve um crescimento significativo no número de usuários no ano de 1987, quando foram lançados os primeiros jogos eletrônicos.
 
 <p align="center">
   <img src="https://images2.imgbox.com/35/0d/8wu2YM78_o.png" width="500">
