@@ -21,7 +21,7 @@ Lego Database
 
 ## <strong> Número de Peças Mais Fabricadas por Ano entre 1960 e 1990 </strong>
 
-Nesta pesquisa, verificou-se qual foi o número de peças mais fabricadas pela Lego entre os anos de 1960 e 1990. É possível verificar um aumento significativo de produção a partir do ano de 1989.
+Nesta pesquisa, verificou-se qual foi o número de peças mais fabricadas pela Lego entre os anos de 1960 e 1990. É possível verificar um valor significante de aumento de peças fabricadas no ano de 1987.
 
 <p align="center">
   <img src="https://images2.imgbox.com/ff/d6/IVEwvSym_o.png" width="500">
@@ -82,7 +82,7 @@ Nesta consulta, procuramos identificar as categorias de peças da Lego mais util
 </p>
 
 <p align="center">
-  <img src="https://images2.imgbox.com/07/42/W4aiXe1V_o.jpeg" width="500">
+  <img src="https://images2.imgbox.com/21/87/EQRV5fL9_o.jpeg" width="500">
 </p>
 
 ---
